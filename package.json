@@ -1,0 +1,29 @@
+{
+  "name": "creating-rest-api",
+  "version": "1.0.0",
+  "description": "Learning and Creating REST API",
+  "main": "Index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neeteshking21/Creating-REST-API.git"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Neetesh Kumar Shar,a\u001b[\u001b[\u001b[ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neeteshking21/Creating-REST-API/issues"
+  },
+  "homepage": "https://github.com/Neeteshking21/Creating-REST-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
+}
